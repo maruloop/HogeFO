@@ -1,0 +1,9 @@
+LIBRARY HogeFO
+EXPORTS
+	load
+	exists
+	getpcmdata
+	freepcm
+	getfrqdata
+	freefrq
+	setup
