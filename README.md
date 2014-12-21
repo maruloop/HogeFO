@@ -1,7 +1,7 @@
 HogeFO
 ======
 
-UTAU dll voicebank Sample
+UTAU dll voicebank Sample (very very very very simply)
 
 ## What is This
 It's UTAU DLL voicebank Sample.
