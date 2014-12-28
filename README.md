@@ -10,7 +10,7 @@ When you click "setup" button in voicebank's profile dialog, create text file an
 
 HogeFO.cpp based on WavLoader.cpp(written by Ameya)
 
-I only edited setup function.
+I edited only setup function.
 
 ## Compile
 
@@ -25,6 +25,10 @@ cl HogeFO.cpp HogeFO.def /LD
 1. Compile this source
 2. HogeFO.dll and plugin.txt into your voicebank
 3. Open your voicebank in UTAU and click "setup" button
+4. Check hoge.txt in your voicebank
+
+## Attention
+UTAU works only CRLF(line feed code)
 
 ## UTAU Version
 
