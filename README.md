@@ -23,7 +23,7 @@ cl HogeFO.cpp HogeFO.def /LD
 ## Usage
 
 1. Compile this source
-2. HogeFO.dll and plugin.txt into your voicebank
+2. Move HogeFO.dll and plugin.txt into your voicebank
 3. Open your voicebank in UTAU and click "setup" button
 4. Check hoge.txt in your voicebank
 
