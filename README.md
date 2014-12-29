@@ -6,7 +6,7 @@ UTAU dll voicebank Sample (very very very very simply)
 ## What is This
 It's UTAU DLL voicebank Sample.
 
-When you click "setup" button in voicebank's profile dialog, create text file and write "hoge" in your voicebank directory.
+When you click "setup" button at profile dialog of voicebank, create text file and write "hoge" in your voicebank directory.
 
 HogeFO.cpp based on WavLoader.cpp(written by Ameya)
 
